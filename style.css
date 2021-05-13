@@ -81,6 +81,7 @@ img,.img__class{
            .text{
                order: 1;
                height: 50%;
+               padding-right: 0;
            }
            .stats{
                flex-direction: column;
